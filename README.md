@@ -1,9 +1,29 @@
-In the project directory, you can run:
+# Task-List
 
-### `yarn start`
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [React](https://reactjs.org)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/gabrieldev21/Task-List
+$ cd Task-List
+```
+
+Para iniciá-lo, siga os passos abaixo:
+```bash
+# Instalar as dependências
+$ yarn
+
+# Iniciar o projeto
+$ yarn start
+```
+
+O app estará disponível no seu browser pelo endereço http://localhost:3000.
+
+## Projeto
+
+Task-List é perfeito para quem deseja uma lista de tarefas, ou deseja estudar como se desenvolve uma lista de tarefas em React. 
